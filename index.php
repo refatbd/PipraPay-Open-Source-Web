@@ -96,7 +96,6 @@ if (file_exists(__DIR__."/pp-config.php")) {
                         $mfs_providers = [
                             'NAGAD' => 'Nagad',
                             'Nagad' => 'Nagad',
-                            '01708403334' => 'Nagad',
                             'bKash' => 'bKash',
                             '16216' => 'Rocket',
                             'upay' => 'Upay',
